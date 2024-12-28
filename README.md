@@ -3,6 +3,7 @@
 ## Hello, my dear.
 남다른 상승곡선을 그리는 개발자가 되겠습니다 🐹
 <br/>
+<br/>
 
 ## Project 
 <table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #ddd;">
@@ -38,6 +39,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
+<br/>
+<br/>
 
 </div>
