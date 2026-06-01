@@ -1,6 +1,7 @@
 <div align="left">
 
 <h2>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279491/noticon/jmdopszwbmhxbd3y7ixg.gif" width="40" />
   Hello, my dear.
   <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279491/noticon/jmdopszwbmhxbd3y7ixg.gif" width="40" />
 </h2>
