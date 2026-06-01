@@ -18,7 +18,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>2024.12.19 ~</td>
+      <td>2024.12.19 ~ 2025</td>
       <td>Motimate</td>
       <td>학습 관리 및 동기부여 서비스</td>
       <td>프론트엔드</td>
