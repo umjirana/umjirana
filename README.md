@@ -1,6 +1,8 @@
 <div>
 
-## Hello, my dear.
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279491/noticon/jmdopszwbmhxbd3y7ixg.gif" width="40" />
+ ## Hello, my dear. <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279491/noticon/jmdopszwbmhxbd3y7ixg.gif" width="40" />
+
 남다른 상승곡선을 그리는 개발자가 되겠습니다 🐹
 <br/>
 <br/>
