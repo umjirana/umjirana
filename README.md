@@ -1,14 +1,19 @@
-<div>
+<div align="left">
 
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279491/noticon/jmdopszwbmhxbd3y7ixg.gif" width="40" />
- ## Hello, my dear. <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279491/noticon/jmdopszwbmhxbd3y7ixg.gif" width="40" />
+<h2>
+  Hello, my dear.
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1740279491/noticon/jmdopszwbmhxbd3y7ixg.gif" width="40" />
+</h2>
 
-남다른 상승곡선을 그리는 개발자가 되겠습니다 🐹
-<br/>
-<br/>
+<p>
+  남다른 상승곡선을 그리는 개발자가 되겠습니다 🐹
+</p>
 
-## Project 
-<table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #ddd;">
+<br>
+
+<h2>Project</h2>
+
+<table>
   <thead>
     <tr>
       <th>기간</th>
@@ -30,25 +35,27 @@
       <td>2025.12</td>
       <td>희망나눔</td>
       <td>기부 웹 사이트</td>
-      <td>ai 설계 및 구현 : ko-sbert-multitask모델을 이용한 rag 기반 기부 추천 ai</td>
+      <td>AI 설계 및 구현<br>
+      ko-sbert-multitask 모델 기반 RAG 기부 추천 AI</td>
       <td>3인 팀 프로젝트</td>
     </tr>
-</tbody>
+  </tbody>
 </table>
-<br/>
 
-## Tech Stack
+<br>
 
-### Front-End
+<h2>Tech Stack</h2>
+
+<h3>Front-End</h3>
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
-<br/>
+<br><br>
 
-### Back-End
+<h3>Back-End</h3>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<br/>
-<br/>
 
 </div>
