@@ -22,7 +22,14 @@
       <td>Motimate</td>
       <td>학습 관리 및 동기부여 서비스</td>
       <td>프론트엔드</td>
-      <td>팀 프로젝트</td>
+      <td>4인 팀 프로젝트</td>
+    </tr>
+    <tr>
+      <td>2024.12</td>
+      <td>희망나눔</td>
+      <td>기부 웹 사이트</td>
+      <td>ai 설계 및 구현 : ko-sbert-multitask모델을 이용한 rag 기반 기부 추천 ai</td>
+      <td>3인 팀 프로젝트</td>
     </tr>
 </tbody>
 </table>
