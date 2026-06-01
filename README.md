@@ -25,7 +25,7 @@
       <td>4인 팀 프로젝트</td>
     </tr>
     <tr>
-      <td>2024.12</td>
+      <td>2025.12</td>
       <td>희망나눔</td>
       <td>기부 웹 사이트</td>
       <td>ai 설계 및 구현 : ko-sbert-multitask모델을 이용한 rag 기반 기부 추천 ai</td>
